@@ -34,4 +34,6 @@ public class LinkedQueue<T> implements Queue<T>{
             tail = null;
         return x;
     }
+    
+
 }
